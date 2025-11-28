@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.lm-bg {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png");
+    padding: 42px;
+    text-align: center;
+    background-size: cover;
+}
+
+.lm-heading {
+    font-family: "Roboto";
+    font-size: 42px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.search-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.book-image {
+    height: 200px;
+    width: 140px;
+    margin: 12px;
+}
+
+.book-author {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    color: #323f4b;
+}
